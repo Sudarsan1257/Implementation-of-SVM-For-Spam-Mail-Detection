@@ -53,7 +53,7 @@ Classify emails as:
 Spam
 Not Spam (Ham)
 ## Program:
-```
+```python
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: SUDARSAN.A
